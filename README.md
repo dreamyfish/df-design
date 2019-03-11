@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">iLoop Design</h1>
+<h1 align="center">de-design</h1>
 
 ## ✨ Features
 
@@ -22,7 +22,7 @@
 ## 📦 Install
 
 ```bash
-npm install iloopd --save
+npm install df-design --save
 ```
 
 ## 🔨 Usage
