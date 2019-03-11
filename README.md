@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">de-design</h1>
+<h1 align="center">df-design</h1>
 
 ## ✨ Features
 
